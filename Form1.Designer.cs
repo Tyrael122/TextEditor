@@ -84,7 +84,7 @@
             // btnSelectTextFile
             // 
             this.btnSelectTextFile.Name = "btnSelectTextFile";
-            this.btnSelectTextFile.Size = new System.Drawing.Size(224, 28);
+            this.btnSelectTextFile.Size = new System.Drawing.Size(153, 28);
             this.btnSelectTextFile.Text = "Open";
             this.btnSelectTextFile.Click += new System.EventHandler(this.btnSelectTextFile_Click);
             // 
@@ -92,7 +92,7 @@
             // 
             this.btnSaveTextFile.Enabled = false;
             this.btnSaveTextFile.Name = "btnSaveTextFile";
-            this.btnSaveTextFile.Size = new System.Drawing.Size(224, 28);
+            this.btnSaveTextFile.Size = new System.Drawing.Size(153, 28);
             this.btnSaveTextFile.Text = "Save";
             this.btnSaveTextFile.Click += new System.EventHandler(this.btnSaveTextFile_Click);
             // 
@@ -100,7 +100,7 @@
             // 
             this.btnSaveAs.Enabled = false;
             this.btnSaveAs.Name = "btnSaveAs";
-            this.btnSaveAs.Size = new System.Drawing.Size(224, 28);
+            this.btnSaveAs.Size = new System.Drawing.Size(153, 28);
             this.btnSaveAs.Text = "Save As";
             this.btnSaveAs.Click += new System.EventHandler(this.btnSaveAs_Click);
             // 
@@ -115,8 +115,6 @@
             // 
             // btnWordWrap
             // 
-            this.btnWordWrap.Checked = true;
-            this.btnWordWrap.CheckState = System.Windows.Forms.CheckState.Checked;
             this.btnWordWrap.Name = "btnWordWrap";
             this.btnWordWrap.Size = new System.Drawing.Size(224, 28);
             this.btnWordWrap.Text = "Word wrap";

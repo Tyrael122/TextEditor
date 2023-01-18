@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\Completed Projects\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\TextEditor\\TextEditor.csproj",
+      "projectPath": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\Completed Projects\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\TextEditor\\obj\\",
+      "outputPath": "C:\\Users\\Suporte\\OneDrive - Fatec Centro Paula Souza\\Programs\\C#\\Completed Projects\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
